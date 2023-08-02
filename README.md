@@ -1,6 +1,6 @@
 # SuperHero-Books
 
-![Ekran Resmi 2023-08-02 16 03 59](https://github.com/nsenasabirli/SuperHero-Books/assets/72200463/29560f0c-376b-4f5f-bd0e-ae7db11cee83)
+![Ekran Resmi 2023-08-02 21 03 06](https://github.com/nsenasabirli/SuperHero-Books/assets/72200463/518a44f3-f46a-41ea-b09f-a72c6d04ea7c)
 
 
 ![Ekran Resmi 2023-08-02 20 58 07](https://github.com/nsenasabirli/SuperHero-Books/assets/72200463/728ebef1-d299-412a-8362-4e5f99c7e224)
