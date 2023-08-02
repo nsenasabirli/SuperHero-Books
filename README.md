@@ -1,11 +1,10 @@
 # SuperHero-Books
+![Ekran Resmi 2023-08-02 16 03 59](https://github.com/nsenasabirli/SuperHero-Books/assets/72200463/29560f0c-376b-4f5f-bd0e-ae7d
 
-![Ekran Resmi 2023-08-02 16 03 59](https://github.com/nsenasabirli/SuperHero-Books/assets/72200463/29560f0c-376b-4f5f-bd0e-ae7db11cee83)
+![Ekran Resmi 2023-08-02 20 58 07](https://github.com/nsenasabirli/SuperHero-Books/assets/72200463/728ebef1-d299-412a-8362-4e5f99c7e224)
+b11cee83)
+![Ekran Resmi 2023-08-02 20 56 42](https://github.com/nsenasabirli/SuperHero-Books/assets/72200463/bcb177d6-e99c-46ca-b821-2afe6a40736b)
 
+![Ekran Resmi 2023-08-02 20 59 12](https://github.com/nsenasabirli/SuperHero-Books/assets/72200463/6d49b69f-4f32-408d-8152-a90e2e78b6e5)
+![Ekran Resmi 2023-08-02 20 57 54](https://github.com/nsenasabirli/SuperHero-Books/assets/72200463/fd140399-8768-4b76-92d8-4cc5c459203d)
 
-
-![Ekran Resmi 2023-08-02 16 03 51](https://github.com/nsenasabirli/SuperHero-Books/assets/72200463/9483beaf-ea60-4e1b-bdb4-d774a0e5cddf)
-![Ekran Resmi 2023-08-02 16 04 07](https://github.com/nsenasabirli/SuperHero-Books/assets/72200463/aff6f9ee-732a-439a-8373-e0f62d820291)
-
-![Ekran Resmi 2023-08-02 16 05 06](https://github.com/nsenasabirli/SuperHero-Books/assets/72200463/c77a81d1-8af9-4881-a2f4-8a57fac77f78)
-![Ekran Resmi 2023-08-02 16 10 33](https://github.com/nsenasabirli/SuperHero-Books/assets/72200463/04741620-2649-4342-87c5-f53d73dd5d49)
